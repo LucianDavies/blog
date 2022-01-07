@@ -17,7 +17,7 @@ cd ..
 
 echo -e "\033[0;32mDeploying updates to Blog...\033[0m"
 # Build the project.
-hugo --minify   # if using a theme, replace with `hugo -t <YOURTHEME>`
+HUGO_ENV=production hugo --minify   # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 cd public
