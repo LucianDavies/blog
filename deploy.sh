@@ -7,7 +7,7 @@ do
     cd ${dir##/*/};
     git add .;
     git commit -m "update theme `date`"
-    git push -f origin master;
+    git push origin master;
     cd -
 done
 
@@ -32,12 +32,12 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push -f origin HEAD:master
+git push origin HEAD:master
 # Come Back up to the Project Root
 cd ..
 
 echo -e "\033[0;32mSyncronizing with blog source...\033[0m"
 git add .
 git commit -m "$msg"
-git push -f origin master
+git push origin master
 
