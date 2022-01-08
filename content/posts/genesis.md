@@ -6,7 +6,7 @@ draft: false
 ---
 
 Every now and then you just need a clean slate. So lets start from the top. Hie, my name is Tonderai and I
-am a software developer. This new blog is going to document the things I am learning kinda giving you a front
+am a software developer. This new blog is going to document the things I am learning, kinda giving you a front
 row view for the things that interests me. At the top of the list is [Rust](https://www.rust-lang.org/).
 For those that dont know
 
@@ -16,9 +16,10 @@ For those that dont know
 > ~ [_Wikipedia_](<https://en.wikipedia.org/wiki/Rust_(programming_language)>)
 
 Now unfortunately, I only get to use rust on side projects and having
-played around in the embedded domain. I decided to focus on something a little bit long term and that doesnt encourage
+played around in the Rust embedded domain. I decided to focus on something a little bit long term and that doesnt encourage
 me to buy more and more microcontroller boards. Thanks to [Olivia Ifrim](https://twitter.com/oliviff) my focus is going
-to be on building a game. You can follow the [base template Olivia published](https://sokoban.iolivia.me/).
+to be on building a game. You can follow the [base template Olivia published](https://sokoban.iolivia.me/) if you are just
+interested in the concepts im going to attempt to build on.
 
 The name of the game is `fight club` and if we do manage to have something function we might even get to play with
 other game concepts like two player setups or even online two play type setup.
