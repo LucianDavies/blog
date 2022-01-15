@@ -13,7 +13,6 @@ For those that dont know
 > Rust is a multi-paradigm, general-purpose programming language designed for performance
 > and safety, especially safe concurrency.<br>
 > — <cite>Wikipedia[^1]</cite>
-> ~ [_Wikipedia_](<https://en.wikipedia.org/wiki/Rust_(programming_language)>)
 
 Now unfortunately, I only get to use rust on side projects and having
 played around in the Rust embedded domain. I decided to focus on something a little bit long term and that doesnt encourage
