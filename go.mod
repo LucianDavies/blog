@@ -1,5 +1,5 @@
-module github.com/LucianDavies/luciandavies.github.io
+module theabyss
 
-go 1.17
+go 1.19
 
-require github.com/nodejh/hugo-theme-mini v0.0.0-20211205135800-3232fe94efb0 // indirect
+require github.com/dillonzq/LoveIt v0.2.11 // indirect
