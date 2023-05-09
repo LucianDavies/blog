@@ -1,0 +1,47 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - </title>
+        <link>/tags/</link>
+        <description>Tags - Tag - </description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 10 Dec 2022 16:37:30 &#43;0100</lastBuildDate><atom:link href="/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>about</title>
+    <link>/tags/about/</link>
+    <pubDate>Sat, 10 Dec 2022 16:37:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>/tags/about/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>communication</title>
+    <link>/tags/communication/</link>
+    <pubDate>Sat, 10 Dec 2022 16:37:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>/tags/communication/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>personal brand</title>
+    <link>/tags/personal-brand/</link>
+    <pubDate>Sat, 10 Dec 2022 16:37:30 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>/tags/personal-brand/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>HTML</title>
+    <link>/tags/html/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/tags/html/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Markdown</title>
+    <link>/tags/markdown/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/tags/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

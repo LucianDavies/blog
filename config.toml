@@ -90,7 +90,7 @@ pre = "~/"
 post = ""
 # whether to use typeit animation for title name
 # 是否为标题显示打字机动画
-typeit = false
+typeit = true
 
 # Footer config
 # 页面底部信息配置
@@ -110,13 +110,14 @@ copyright = true
 author = true
 # site creation time
 # 网站创立年份
-since = 2022
+since = 2023
 # ICP info only in China (HTML format is supported)
 # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
 icp = ""
 # license info (HTML format is supported)
 # 许可协议信息 (支持 HTML 格式)
-license = ""
+license = "©2023 Tonderai Khatai"
+
 
 # Section (all posts) page config
 # Section (所有文章) 页面配置
@@ -226,7 +227,7 @@ typeit = false
 social = true
 # disclaimer (HTML format is supported)
 # 免责声明 (支持 HTML 格式)
-disclaimer = ""
+disclaimer = "Not even sure if my views are my own"
 # Home page posts
 # 主页文章列表
 [params.home.posts]
@@ -396,22 +397,22 @@ lightStyle = "mapbox://styles/mapbox/light-v10?optimize=true"
 darkStyle = "mapbox://styles/mapbox/dark-v10?optimize=true"
 # whether to add NavigationControl (https://docs.mapbox.com/mapbox-gl-js/api/#navigationcontrol)
 # 是否添加 NavigationControl (https://docs.mapbox.com/mapbox-gl-js/api/#navigationcontrol)
-navigation = true
+navigation = false
 # whether to add GeolocateControl (https://docs.mapbox.com/mapbox-gl-js/api/#geolocatecontrol)
 # 是否添加 GeolocateControl (https://docs.mapbox.com/mapbox-gl-js/api/#geolocatecontrol)
-geolocate = true
+geolocate = false
 # whether to add ScaleControl (https://docs.mapbox.com/mapbox-gl-js/api/#scalecontrol)
 # 是否添加 ScaleControl (https://docs.mapbox.com/mapbox-gl-js/api/#scalecontrol)
-scale = true
+scale = false
 # whether to add FullscreenControl (https://docs.mapbox.com/mapbox-gl-js/api/#fullscreencontrol)
 # 是否添加 FullscreenControl (https://docs.mapbox.com/mapbox-gl-js/api/#fullscreencontrol)
 fullscreen = true
 # Social share links in post page
 # 文章页面的分享信息设置
 [params.page.share]
-enable = true
-Twitter = true
-Facebook = true
+enable = false
+Twitter = false
+Facebook = false
 Linkedin = true
 Whatsapp = false
 Pinterest = false
@@ -599,7 +600,7 @@ thumbnailUrl = ""
 # Analytics config
 # 网站分析配置
 [params.analytics]
-enable = true
+enable = false
 # Google Analytics
 [params.analytics.google]
 id = "G-DBZKMGWM2M"
@@ -622,7 +623,7 @@ id = ""
 # Cookie consent config
 # Cookie 许可配置
 [params.cookieconsent]
-enable = false
+enable = true
 # text strings used for Cookie consent banner
 # 用于 Cookie 许可横幅的文本字符串
 [params.cookieconsent.content]
