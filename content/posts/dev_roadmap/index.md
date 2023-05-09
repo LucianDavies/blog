@@ -6,7 +6,7 @@ lastmod: 2023-05-09T04:08:48+02:00
 draft: true
 author: "Tonderai Khatai"
 authorLink: "https://myself@tldkhatai.com"
-description: ""
+description: "Simple resource list"
 license: "CC BY-NC-SA 4.0"
 images: []
 
