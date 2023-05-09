@@ -16,7 +16,7 @@ categories: ["Self Improvement"]
 featuredImage: ""
 featuredImagePreview: ""
 
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 hiddenFromSearch: false
 ---
 
